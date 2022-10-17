@@ -10,7 +10,7 @@ $firstNumber = 8; //La variable $firstNumber tiene asignado un valor entero de 8
 $secondNumber = 10; //La variable $secondNumber tiene asignado un valor entero de 10
 $result = 0; //La variable $result tiene asignado un valor de 0
 
-$result = 8 + 10; //La variable $result está recibiendo el valor resultante de la suma del número 8 + 10
+$result = 8 + 10; //La variable $result está recibiendo el valor resultante de la suma del número 8 + 10, pero no está usando las variables
 echo $result;
 
 
