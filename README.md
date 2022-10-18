@@ -1,4 +1,4 @@
-# Ejercicios para mejorar código en PHP
+# Ejercicios para optimizar código en PHP
 ![PHPLOGO](https://www.php.net/images/logos/new-php-logo.png)
 
 💁🏻‍♀️ En este repositorio encontrarás scripts escritos en PHP con diferentes tipos de errores y malas prácticas, tu misión será encontrar la forma más óptima de ejecutar la misma lógica de acuerdo al objetivo que encontrarás al principio de cada documento. Aquí un ejemplo 👇🏼
