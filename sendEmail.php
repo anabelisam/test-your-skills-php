@@ -34,8 +34,4 @@ function listaEmails($ruta){
 sendEmail('email@email.com', 'Un asunto importante', 'Este email es para decirte que te quiero');
 listaEmails('creations/');
 
-
- 
-
-
 ?>
