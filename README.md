@@ -1,8 +1,17 @@
 # Ejercicios para optimizar código en PHP
 ![PHPLOGO](https://www.php.net/images/logos/new-php-logo.png)
 
-💁🏻‍♀️ En este repositorio encontrarás scripts escritos en PHP con diferentes tipos de errores y malas prácticas, tu misión será encontrar la forma más óptima de ejecutar la misma lógica de acuerdo al objetivo que encontrarás al principio de cada documento. Aquí un ejemplo 👇🏼
-<br>
+💁🏻‍♀️ En este repositorio encontrarás scripts escritos en PHP con diferentes tipos de errores y malas prácticas, tu misión será encontrar la forma más óptima de ejecutar la misma lógica de acuerdo al objetivo que encontrarás al principio de cada documento. 
+
+**Si es tu primera vez usando PHP**👇🏼
+- Cada uno de los archivos de extensión .php son scripts independientes, esto quiere decir que debes ejecutarlo cada uno de forma independiente y cada uno tiene una función, resultado y objetivo diferente.
+
+- **Si no tienes tu servidor local configurado** puedes ir a (replit)[https://replit.com/] y podrás ejecutar online cada uno de estos scripts sólo con copiar y pegar el código.
+
+- **Envía un PR con tus soluciones y te dejaré feedback**
+
+---
+Aquí un ejemplo 👇🏼
 ## example.php
 
 ### Realiza la suma de dos números través de variables. Optimiza el siguiente bloque de código.
