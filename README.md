@@ -64,6 +64,7 @@ echo sumatoriaReturn($firstNumber, $secondNumber);
 ```
 
 <div align="center">
+
 ## Todas nos resuelven el problema, pero tú ¿Con cuál solución te quedas?
 
 Author @anabelisam <br>
