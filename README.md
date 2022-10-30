@@ -1,3 +1,23 @@
+![header](https://github.com/anabelisam/modularization-exercices-php/blob/main/assets/header.png)
+
+<div align="center">
+
+## About me
+
+💚 **Actual** Faculty Manager for Computer and Technology at Platzi.
+
+ ✍🏼 Writer in my personal blog [anabelisa.co](https://anabelisa.co/).
+ 
+💪 From 2020 training to the top developers by **Platzi Master**. 
+
+🌟 Web Developer since 2010.
+
+👩🏻‍🏫 Platzi Teacher, find my courses about **PHP** and **Logical Thinking**.
+
+</div>
+
+
+
 # Ejercicios para optimizar código en PHP
 ![PHPLOGO](https://www.php.net/images/logos/new-php-logo.png)
 
